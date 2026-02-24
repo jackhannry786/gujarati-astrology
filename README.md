@@ -1,2 +1,28 @@
-# gujarati-astrology
-ગુજરાતી જ્યોતિષ એક મફત અને ઉપયોગી ઓનલાઈન જ્યોતિષ વેબસાઇટ છે, જેમાં ૧૨ રાશિઓનું દૈનિક રાશિફળ, કુંડળી માહિતી ફોર્મ અને આધુનિક મોબાઇલ-ફ્રેન્ડલી ડિઝાઇન આપવામાં આવી છે. HTML, CSS અને JavaScript પર આધારિત આ પ્રોજેક્ટ GitHub Pages પર સરળતાથી હોસ્ટ કરી શકાય છે. ગુજરાતી જ્યોતિષ, આજનું રાશિફળ અને મફત કુંડળી માટે ઉત્તમ પ્લેટફોર્મ.
+# 🔮 Gujarati Astrology Website
+
+ગુજરાતી જ્યોતિષ એક મફત ઓનલાઈન જ્યોતિષ વેબસાઇટ પ્રોજેક્ટ છે.
+
+## ✨ Features
+- ૧૨ રાશિઓનું દૈનિક રાશિફળ
+- સરળ કુંડળી માહિતી ફોર્મ
+- મોબાઇલ પ્રતિસાદી (Responsive) ડિઝાઇન
+- સરળ અને હલકો HTML, CSS, JavaScript આધારિત કોડ
+- GitHub Pages પર મફત હોસ્ટિંગ
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## 🌐 Live Website
+(અહીં તમારો GitHub Pages link ઉમેરો)
+
+## 📌 Future Updates
+- ઓટો દૈનિક રાશિફળ અપડેટ
+- કુંડળી PDF જનરેશન
+- રાશિ મુજબ અલગ પેજ
+- Google AdSense ઇન્ટિગ્રેશન
+
+---
+
+© 2026 Gujarati Astrology | Developed for learning and astrology services
